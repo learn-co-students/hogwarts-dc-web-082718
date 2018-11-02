@@ -2,6 +2,14 @@
 
 ## React Week 1 Project
 
+
+//from app pass in the hogs as a prop
+Top - <HogsList hogs={hogs} />
+
+
+
+
+
 ## Project goals:
 
 * create an index displaying all hog tiles
